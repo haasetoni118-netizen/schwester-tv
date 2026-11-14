@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meine TV-Welt</string>
+    <string name="greeting">Hallo! 👋</string>
+    <string name="btn_google">🔍 Google-Suche</string>
+    <string name="btn_youtube">▶️ YouTube</string>
+    <string name="btn_netflix">🎬 Netflix</string>
+    <string name="btn_minecraft">⛏️ Minecraft</string>
+    <string name="btn_subway">🏃 Subway Surfers</string>
+    <string name="error_no_app">Diese App ist noch nicht installiert – ich öffne den Store für dich.</string>
+    <string name="error_no_store">Konnte den Store nicht öffnen.</string>
+</resources>
