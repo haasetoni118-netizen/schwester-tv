@@ -1,0 +1,10 @@
+<resources>
+    <color name="bg_main">#1A1A2E</color>
+    <color name="text_light">#FFFFFF</color>
+
+    <color name="btn_google">#4285F4</color>
+    <color name="btn_youtube">#FF0000</color>
+    <color name="btn_netflix">#E50914</color>
+    <color name="btn_minecraft">#4CAF50</color>
+    <color name="btn_subway">#FFC107</color>
+</resources>
